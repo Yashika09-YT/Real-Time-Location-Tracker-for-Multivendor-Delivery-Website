@@ -1,4 +1,4 @@
-# 🚚 Real-Time Location Tracker for Multivendor Delivery Platform
+![image](https://github.com/user-attachments/assets/49b1dd9b-f12e-40c2-b4bc-57aad3005631)# 🚚 Real-Time Location Tracker for Multivendor Delivery Platform
 
 A full-stack web application that enables vendors to assign delivery partners, delivery agents to share their live location, and customers to track their orders in real time — similar to apps like Dunzo or Rapido.
 
@@ -20,32 +20,39 @@ A full-stack web application that enables vendors to assign delivery partners, d
 
 ---
 ## 📸 Screenshots
-### Login page
-![alt text](./client/public/screenShots/ss1.png)
+### Landing page
+![image](https://github.com/user-attachments/assets/5b10813b-245a-43a6-a263-490e99c9335b)
+
+
+---
+### Platform features
+![image](https://github.com/user-attachments/assets/5f66a5fb-dd1d-4a8e-9d2c-82c92ec354a0)
+
+---
+### Footer
+![image](https://github.com/user-attachments/assets/bde67795-c37d-46dc-8230-47990fee9a8b)
+ 
+---
+### Login
+![image](https://github.com/user-attachments/assets/3b373cce-fbf1-43a8-bc0a-79dd6a4e8adc)
 
 ---
 
-### Vendor order assignment
-![alt text](./client/public/screenShots/ss2.png)
-![alt text](./client/public/screenShots/ss3.png)
+### Customer Dashboard
+![image](https://github.com/user-attachments/assets/ac06ded0-3208-4875-94dd-3028f82ca04d)
+![image](https://github.com/user-attachments/assets/30387d28-2d05-439b-911b-00cbf3d8e2ce)
+![image](https://github.com/user-attachments/assets/40f0842c-5393-4d97-99a1-c1c322d37640)
 
----
 
-### Delivery partner location sharing
-![alt text](./client/public/screenShots/ss4.png)
-![alt text](./client/public/screenShots/ss5.png)
 
 ---
 
 ### Customer tracking map
-![alt text](./client/public/screenShots/ss6.png)
-![alt text](./client/public/screenShots/ss7.png)
+![image](https://github.com/user-attachments/assets/318406f2-b925-497d-8325-e1b54dad4df1)
+![image](https://github.com/user-attachments/assets/47401ce9-393a-4d05-b0c7-49d6dce68610)
+![image](https://github.com/user-attachments/assets/fa092c49-a4eb-4048-bded-d90b368b59fd)
 
 ---
-
-
-
- 
 ## 📂 Project Structure
 Real-Time Location Tracker for Multivendor Delivery Platform/<br>
 ├── client/ # Frontend (Next.js) <br>
@@ -157,5 +164,5 @@ npm run dev
 
 ---
 ## 👨‍💻 Author
-- **Sahil Salap**
-- GitHub: sahildev109
+- **Yashika Tanwar**
+- GitHub: Yashika09
